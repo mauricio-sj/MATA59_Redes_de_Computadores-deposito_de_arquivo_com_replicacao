@@ -9,7 +9,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao">
   </a>
    
-   <a href="https://github.com/caiovinisl/metodos-hashing/stargazers">
+   <a href="https://github.com/mauricio-sj/metodos-hashing/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao?style=social">
   </a>
   
@@ -17,7 +17,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧 Depósito de Arquivos 🚧
+	🚧 Depósito de Arquivos com Replicação 🚧
 </h4>
 
 <p align="center">
