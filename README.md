@@ -1,19 +1,14 @@
-# deposito-de-arquivos-com-replicação
+# Depósito de Arquivos com Replicação
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao?color=%2304D361">
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao">
-  
   <a href="https://github.com/caiovinisl/metodos-hashing/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao">
   </a>
-   
-   <a href="https://github.com/mauricio-sj/metodos-hashing/stargazers">
+  <a href="https://github.com/mauricio-sj/metodos-hashing/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao?style=social">
   </a>
-  
- 
 </p>
 
 <h4 align="center"> 
@@ -21,7 +16,7 @@
 </h4>
 
 <p align="center">
-	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
+	<img alt="Status do Projeto" src="https://img.shields.io/badge/STATUS-Em_Progresso-blue">
 </p>
 
 <p align="center">
@@ -33,23 +28,20 @@
 
 ## 💻 Sobre o projeto
 
-📄 Servidor de arquivos usando sockets.
-
-
+📄 Este projeto consiste em um servidor de arquivos que utiliza sockets para depósito e replicação de arquivos.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [] Servidor
-  - [] Guarda as “N” cópias do arquivo
-  - [] Encontra o arquivo e devolve ao cliente
+- [ ] Servidor
+  - [ ] Armazena "N" cópias do arquivo
+  - [ ] Recupera o arquivo e o entrega ao cliente
 
-- [] Cliente
-  - [] Deposita arquivos
-  	- [] Aumenta a quantidade de réplicas
-   	- [] Diminui a quantidade de réplicas
-
+- [ ] Cliente
+  - [ ] Deposita arquivos
+    - [ ] Aumenta a quantidade de réplicas
+    - [ ] Diminui a quantidade de réplicas
 
 ---
 
@@ -58,9 +50,7 @@
 #### 🎲 Rodando a aplicação
 
 ```bash
-
 # Clone este repositório
-
 
 # Acesse a pasta do projeto no terminal/cmd
 
