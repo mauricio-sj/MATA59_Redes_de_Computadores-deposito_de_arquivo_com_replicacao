@@ -22,7 +22,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-Funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a>
 </p>
@@ -52,16 +52,25 @@
 
 ```bash
 # Clone este repositório
+git clone https://github.com/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao.git
 
 # Acesse a pasta do projeto no terminal/cmd
+cd MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao
 
+# Execute a aplicação
+
+```
+## Problemas conhecidos
+```bash
+* O projeto ainda está em desenvolvimento, portanto, alguns bugs podem ser encontrados.
 
 
 
 ```
-
 ## 🛠 Tecnologias
 
-*
-
+* Python( à confirmar com o grupo a linguagem mais adequada)
+* Socket
+* Git
+* GitHub
 ---
