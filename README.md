@@ -35,14 +35,14 @@
 
 ## ⚙️ Funcionalidades
 
-- [ ] Servidor
-  - [ ] Armazena "N" cópias do arquivo
-  - [ ] Recupera o arquivo e o entrega ao cliente
+- [x] Servidor
+  - [x] Armazena "N" cópias do arquivo
+  - [x] Recupera o arquivo e o entrega ao cliente
 
-- [ ] Cliente
-  - [ ] Deposita arquivos
-    - [ ] Aumenta a quantidade de réplicas
-    - [ ] Diminui a quantidade de réplicas
+- [x] Cliente
+  - [x] Deposita arquivos
+    - [x] Aumenta a quantidade de réplicas
+    - [x] Diminui a quantidade de réplicas
 
 ---
 
@@ -59,6 +59,20 @@ cd MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao
 
 # Execute a aplicação
 
+*Habilita o servidor Main que server como controlador pra verificar se as funções de deposito, recuperação e edição estão acontecendo
+```sh
+  python server.py main
+```
+*Habilita o servidor que recebe, deleta ou recupera os arquivos
+```sh
+  python server.py
+```
+
+*Habilita o cliente, onde terá um menu para seleção de qual operação vc quer fazer
+```sh
+  python client.py
+```
+*No cliente a tolerância é dado onde vc adiciona a quantos servidores ativo vc quer enviar o arquivo, por exemplo: se vc tem 3 servidores ativos mas só quer enviar para 1, a tolerância será de 1, se posteriormente, você quiser enviar para mais servidores, selecione a opção edicão e coloque 3, e as imagens irão para os 3 servidores ativos, o mesmo vale para remoção.
 ```
 ## Problemas conhecidos
 ```bash
@@ -69,7 +83,7 @@ cd MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao
 ```
 ## 🛠 Tecnologias
 
-* Python( à confirmar com o grupo a linguagem mais adequada)
+* Python
 * Socket
 * Git
 * GitHub
