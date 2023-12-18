@@ -17,7 +17,7 @@
 </h4>
 
 <p align="center">
-	<img alt="Status do Projeto" src="https://img.shields.io/badge/STATUS-Em_Progresso-blue">
+	<img alt="Status do Projeto" src="https://img.shields.io/badge/STATUS-Concluido-green">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ cd MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao
 ```
 ## Problemas conhecidos
 ```bash
-* O projeto ainda está em desenvolvimento, portanto, alguns bugs podem ser encontrados.
+* O projeto ainda está concluído e validado
 
 
 
