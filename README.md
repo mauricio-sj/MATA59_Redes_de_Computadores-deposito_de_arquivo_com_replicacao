@@ -51,11 +51,17 @@
 #### 🎲 Rodando a aplicação
 
 ```bash
+
 # Clone este repositório
+
+```sh
 git clone https://github.com/mauricio-sj/MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao.git
+```
 
 # Acesse a pasta do projeto no terminal/cmd
+```sh
 cd MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao
+```
 
 # Execute a aplicação
 
@@ -73,14 +79,14 @@ cd MATA59_Redes_de_Computadores-deposito_de_arquivo_com_replicacao
   python client.py
 ```
 *No cliente a tolerância é dado onde vc adiciona a quantos servidores ativo vc quer enviar o arquivo, por exemplo: se vc tem 3 servidores ativos mas só quer enviar para 1, a tolerância será de 1, se posteriormente, você quiser enviar para mais servidores, selecione a opção edicão e coloque 3, e as imagens irão para os 3 servidores ativos, o mesmo vale para remoção.
-```
-## Problemas conhecidos
-```bash
-* O projeto ainda está concluído e validado
 
+---
+---
+## 🛠 Etapa do projeto
+O projeto está concluído e validado.
 
+---
 
-```
 ## 🛠 Tecnologias
 
 * Python
